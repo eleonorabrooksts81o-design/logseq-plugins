@@ -1,0 +1,2 @@
+# logseq-plugins
+rsync wrap
